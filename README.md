@@ -2,7 +2,7 @@
 To analyze guest search patterns and host acceptance behaviors in the Dublin Airbnb market, aiming to identify gaps between guest demand and host supply, and provide actionable insights to increase bookings and improve market efficiency.
 
 ## Dashboard Overview:
-![]()
+![](https://github.com/najmisyazani/Airbnb-Market-Analysis/blob/main/Airbnb%20Market%20Analysis%20Dashboard.png)
 
 ## Technical Details:
 - Streamlined data processing by developing an ETL pipeline that successfully imported 35,737 search records and 7,823 host-guest interactions from TSV files, as measured by 100% data integrity in the resulting dataframes, by creating a flexible import function that adapts to various separator types.
