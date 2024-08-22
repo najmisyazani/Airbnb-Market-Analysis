@@ -1,10 +1,10 @@
-## Project Objective:
+## Project Objective
 To analyze guest search patterns and host acceptance behaviors in the Dublin Airbnb market, aiming to identify gaps between guest demand and host supply, and provide actionable insights to increase bookings and improve market efficiency.
 
-## Dashboard Overview:
+## Dashboard Overview
 ![](https://github.com/najmisyazani/Airbnb-Market-Analysis/blob/main/Airbnb%20Market%20Analysis%20Dashboard.png)
 
-## Technical Details:
+## Technical Details
 - Streamlined data processing by developing an ETL pipeline that successfully imported 35,737 search records and 7,823 host-guest interactions from TSV files, as measured by 100% data integrity in the resulting dataframes, by creating a flexible import function that adapts to various separator types.
 - Identified key market segments by revealing that entire homes/apartments and private rooms were the most requested accommodation types, with acceptance rates of 42.49% and 43.46% respectively, as visualized in the "Acceptance Rate" chart in Tableau, providing insights for targeted property acquisition and management strategies.
 - Uncovered global market reach by analyzing search patterns from 20+ countries, with the US (1,876 searches), Italy (1,625 searches), and Great Britain (1,457 searches) being the top origin countries, as displayed on an interactive world map in the dashboard.
