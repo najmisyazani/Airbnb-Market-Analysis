@@ -1,6 +1,11 @@
 ## Project Objective
 To analyze guest search patterns and host acceptance behaviors in the Dublin Airbnb market, aiming to identify gaps between guest demand and host supply, and provide actionable insights to increase bookings and improve market efficiency.
 
+## Key Metrics
+- **Acceptance Rate (North Star Metric):** The percentage of guest inquiries that are accepted by hosts. This metric is crucial as it directly reflects the match between guest demands and host offerings. A higher acceptance rate suggests better alignment in the market, while a lower rate may indicate gaps or mismatches that need addressing.
+- **Host Response Time:** The average time it takes for hosts to respond to guest inquiries, measured in hours. This metric is important because faster response times generally correlate with higher acceptance rates and better guest experiences. It also indicates the level of host engagement and efficiency in the market.
+- **Number of Inquiries:** The total count of inquiries made by potential guests. This metric is valuable as it shows the level of interest in the Dublin Airbnb market from various demographics. A higher number of inquiries from a particular group or for a specific type of listing suggests untapped demand, indicating potential areas for market expansion or property acquisition to meet this interest.
+
 ## Dashboard Overview
 ![](https://github.com/najmisyazani/Airbnb-Market-Analysis/blob/main/Airbnb%20Market%20Analysis%20Dashboard.png)
 
